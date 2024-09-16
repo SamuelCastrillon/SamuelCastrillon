@@ -1,4 +1,4 @@
-<h1 align="center" style="background: linear-gradient(to right, #34A85A, #4A8EFF); border-radius: 0.5rem; padding: 0.5rem; ">Hola 👋, Me Llamó Samuel Castrillon</h1>
+<h1 align="center">Hola 👋, Me Llamó Samuel Castrillon</h1>
 <h3 align="center">Soy un desarrollador web FontEnd con mucho interes en Bakend</h3>
 
 - 🔭 Actualmente estoy trabajando en **mi porfolio Personal**
@@ -14,12 +14,23 @@
 - 📫 Contactame en **samcastj@gmail.com**
 
 
-<hr style="background: linear-gradient(to left, #34A85A, #4A8EFF);">
+<hr />
+
+<h3 align="left">Algunos Proyectos:</h3>
+<section>
+<h4><a href="https://github.com/SamuelCastrillon/EComerce-DigitalInnovation">Digital Innovation - Ecommerce</a></h4>
+<img src="https://media.licdn.com/dms/image/v2/D562DAQExJAKwGXPbWg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1723429194176?e=1727114400&v=beta&t=GKOhVQSGKC0LVp9F5qxsUlEDJV3nwnelTGy96GZ7uyY" alt="projects">
+
+<h4><a href="https://github.com/SamuelCastrillon/PadelArena-HenryM5">Padel Arena - Tournaments Manager</a></h4>
+<img src="https://media.licdn.com/dms/image/v2/D562DAQE8a9hHDwer0Q/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1726508432738?e=1727114400&v=beta&t=--qsli7lhgG7pxQftwvR5aqqtczfg1vZ8UIKg-QjveQ" alt="projects">
+</section>
+
+<hr />
 
 <h3 align="left">Languajes y Herrameintas:</h3>
 <section style="display: flex; flex-direction: column; align-items: center;">
 <h4>Lenguajes</h4>
-<p align="center" style="background: linear-gradient(to right, rgba(52,168,90,0.3), rgba(74,142,255,0.3)); border-radius: 0.5rem; padding: 0.5rem; width: fit-content;display: flex; gap: 0.5rem;">
+<p align="center" ">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
@@ -35,13 +46,7 @@
 </p>
 
 <h4>Bibliotecas y Frameworks</h4>
-<p align="center" style="background: linear-gradient(to left, rgba(52,168,90,0.3), rgba(74,142,255,0.3)); border-radius: 0.5rem; padding: 0.5rem; width: fit-content; display: flex; gap: 0.5rem;">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
+<p align="center">
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
   </a>
@@ -56,46 +61,6 @@
   </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a>
-</p>
-
-<h4>Herramientas</h4>
-<p align="center" style="background: linear-gradient(to left, rgba(52,168,90,0.), rgba(74,142,255,0.3)); border-radius: 0.5rem; padding: 0.5rem; width: fit-content; display: flex; gap: 0.5rem;">
-  <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  </a>
-  <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
   </a>
 </p>
 </section>
