@@ -1,5 +1,6 @@
 <h1 align="center">Hola 👋, Me Llamó Samuel Castrillon</h1>
 <h3 align="center">Soy un desarrollador web FontEnd con mucho interes en Bakend</h3>
+<p>Cuneto con una sólida formación en arquitectura, lo que me ha dotado de habilidades excepcionales en diseño, planificación y atención al detalle. Mi transición al desarrollo web ha sido impulsada por mi pasión por la tecnología y la innovación. Actualmente, me especializo en tecnologías como React, TypeScript, Next.js y Tailwind CSS, y me dedico a crear aplicaciones web eficientes y escalables. Estoy entusiasmado por las oportunidades que ofrece este campo y por seguir creciendo y aprendiendo en esta emocionante etapa de mi carrera profesional. </p>
 
 - 🔭 Actualmente estoy trabajando en **mi porfolio Personal**
 
