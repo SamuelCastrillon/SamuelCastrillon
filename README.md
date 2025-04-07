@@ -1,16 +1,6 @@
 <h1 align="center">Hola 👋, Me Llamó Samuel Castrillon</h1>
 <h3 align="center">Soy un desarrollador web FontEnd con mucho interes en Bakend</h3>
-<p>Cuento con una sólida formación en arquitectura, lo que me ha dotado de habilidades excepcionales en diseño, planificación y atención al detalle. Mi transición al desarrollo web ha sido impulsada por mi pasión por la tecnología y la innovación. Actualmente, me especializo en tecnologías como React, TypeScript, Next.js y Tailwind CSS, y me dedico a crear aplicaciones web eficientes y escalables. Estoy entusiasmado por las oportunidades que ofrece este campo y por seguir creciendo y aprendiendo en esta emocionante etapa de mi carrera profesional. </p>
-
-- 🔭 Actualmente estoy trabajando en **mi porfolio Personal**
-
-- 🌱 Actualmente estoy aprendiendo **Vue.js**
-
-- 👯 Estoy buscando colaborar en **proyectos FrontEnd en remoto!**
-
-- 📝 Escribo artículos regularmente sobre Desarrollo Web: [Linkedin](https://www.linkedin.com/today/author/samuel-castrill%C3%B3n?trk=public_profile_see-all-articles)
-
-- 💬 Pregúntame sobre **React y Next.js**
+<p>Cuento con una sólida formación en arquitectura, lo que me ha dotado de habilidades excepcionales en diseño, planificación y atención al detalle. Mi transición al desarrollo web ha sido impulsada por mi pasión por la tecnología y la innovación. Actualmente, me especializo en tecnologías como React, React Native, TypeScript, Next.js y Tailwind CSS, y me dedico a crear aplicaciones web eficientes y mobile escalables. Estoy entusiasmado por las oportunidades que ofrece este campo y por seguir creciendo y aprendiendo en esta emocionante etapa de mi carrera profesional. </p>
 
 - 📫 Contactame en **samcastj@gmail.com**
 
