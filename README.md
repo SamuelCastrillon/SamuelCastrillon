@@ -1,16 +1,46 @@
-<h1 align="center">Hola 👋, Me Llamó Samuel Castrillon</h1>
-<h3 align="center">Soy un desarrollador en <a href='https://www.jodify.com.ar' target='_blank'>Jodify</a></h3>
-<p>Cuento con una sólida formación en arquitectura, lo que me ha dotado de habilidades excepcionales en diseño, planificación y atención al detalle. Mi transición al desarrollo web ha sido impulsada por mi pasión por la tecnología y la innovación. Actualmente, me especializo en tecnologías como React, React Native, TypeScript, Next.js y Tailwind CSS, y me dedico a crear aplicaciones web y mobile escalables y eficientes. </p>
+<h1 align="center">Hi, I'm Samuel Castrillón 👋</h1>
 
-<section>
-  <p align="center">
-    <a href="mailto:samcastj@gmail.com" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/-samcastj@gmail.com-0078D4?style=flat-square&logo=gmail&logoColor=white" alt="email" />
-    </a>
-<p align="center">
-<a href="https://twitter.com/@samuelc52055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@samuelc52055" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/samuel-castrillón" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel castrillón" height="30" width="40" /></a>
-<a href="https://discord.gg/samuelcastrillonb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="samuelcastrillonb" height="30" width="40" /></a>
+<h3 align="center">
+Software Developer | Next.js · Expo · Node.js · MCP Servers · AI Tools
+</h3>
+
+I'm a Software Developer from Colombia, currently contributing to [Jodify](https://www.jodify.com.ar) as the main maintainer of its Next.js web platform, while also supporting the Expo mobile app and Node.js backend.
+
+My background in architectural design shaped the way I build software: structure first, clear planning, attention to detail, and practical solutions for real products.
+
+## What I work with
+
+- **Web:** Next.js, React, TypeScript, Tailwind CSS
+- **Mobile:** Expo, React Native
+- **Backend:** Node.js, APIs
+- **AI & Tooling:** MCP Servers, AI-assisted workflows, agent tooling
+- **Automation:** Go, Lua, PowerShell, developer environment setup
+
+## Featured work
+
+### Jodify ecosystem
+
+Nearly two years contributing across web, mobile, and backend:
+
+- Main maintainer of the Next.js web platform.
+- Support for the Expo / React Native mobile app.
+- Backend support with Node.js APIs.
+
+### Developer tooling & automation
+
+I build tools and workflows around developer productivity, Neovim environments, agents, and automation.
+
+### MCP & AI tooling
+
+Exploring MCP servers, AI coding workflows, persistent memory systems, and practical AI-assisted development.
+
+## Contact
+
+<p align="left">
+  <a href="mailto:samcastj@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-samcastj@gmail.com-0078D4?style=flat-square&logo=gmail&logoColor=white" alt="email" />
+  </a>
+  <a href="https://www.linkedin.com/in/samuel-castrill%C3%B3n/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
-  </p>
-</section>
