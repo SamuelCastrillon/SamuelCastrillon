@@ -19,7 +19,6 @@ app, with contributions to the Expo mobile app and Node.js backend.
 | **Mobile** | Expo, React Native |
 | **Backend & Systems** | Go, Node.js, APIs |
 | **AI & MCP** | MCP Servers, AI-assisted workflows, agent tooling |
-| **Automation** | Lua, PowerShell, Neovim environments |
 
 ### Featured work
 
