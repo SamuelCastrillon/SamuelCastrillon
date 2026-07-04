@@ -22,10 +22,10 @@ app, with contributions to the Expo mobile app and Node.js backend.
 
 ### Featured work
 
-- **[Open-CLAssing](https://github.com/SamuelCastrillon/Open-CLAssing)** —
-  Open-source automation tool for meeting assignment management.
 - **[OrbisPrismMCP](https://github.com/OrbisFactory/OrbisPrismMCP)** —
   Contributed to an AI-assisted MCP query interface for Hytale modding.
+- **[Open-CLAssing](https://github.com/SamuelCastrillon/Open-CLAssing)** —
+  Open-source automation tool for meeting assignment management.
 - **[scoop-bucket-gentle-stack](https://github.com/SamuelCastrillon/scoop-bucket-gentle-stack)** —
   Windows-native developer tooling via Scoop package manager.
 
