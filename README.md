@@ -22,9 +22,6 @@ app, with contributions to the Expo mobile app and Node.js backend.
 
 ### Featured work
 
-- **[Jodify-Setup](https://github.com/SamuelCastrillon/Jodify-Setup)** — CLI
-  tool in Go that automates Neovim development environment setup with AI
-  integration.
 - **[Open-CLAssing](https://github.com/SamuelCastrillon/Open-CLAssing)** —
   Open-source automation tool for meeting assignment management.
 - **[OrbisPrismMCP](https://github.com/OrbisFactory/OrbisPrismMCP)** —
