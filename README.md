@@ -22,9 +22,6 @@ app, with contributions to the Expo mobile app and Node.js backend.
 
 ### Featured work
 
-- **[engram](https://github.com/SamuelCastrillon/engram)** — Persistent memory
-  system for AI coding agents. Go binary with SQLite + FTS5, MCP server, HTTP
-  API, CLI, and TUI.
 - **[Jodify-Setup](https://github.com/SamuelCastrillon/Jodify-Setup)** — CLI
   tool in Go that automates Neovim development environment setup with AI
   integration.
@@ -34,6 +31,11 @@ app, with contributions to the Expo mobile app and Node.js backend.
   Contributed to an AI-assisted MCP query interface for Hytale modding.
 - **[scoop-bucket-gentle-stack](https://github.com/SamuelCastrillon/scoop-bucket-gentle-stack)** —
   Windows-native developer tooling via Scoop package manager.
+
+### Tools I use daily
+
+- **[engram](https://github.com/SamuelCastrillon/engram)** — Persistent memory
+  for AI coding agents, integrated into my MCP and AI-assisted workflow.
 
 ### Contact
 
