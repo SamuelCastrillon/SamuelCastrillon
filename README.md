@@ -1,40 +1,37 @@
 ## Hi, I'm Samuel Castrillón 👋
 
-**Software Developer | Next.js · Go · Expo · MCP · AI Tooling**
+**Software Developer | Next.js · NestJS · Expo · Go · MCP Tooling**
 
-I build web and mobile products with a focus on clean architecture and practical
-solutions. My background in architectural design shaped how I approach software:
-structure first, clear separation of concerns, and attention to the details that
-make a product reliable.
+I build production web and mobile products with a focus on clean architecture, domain-driven design, and practical AI-assisted workflows.
 
-I currently work on **[Jodify](https://jodify.com.ar/landing)** — a service
-platform with web, mobile, and API — as the main maintainer of its Next.js web
-app, with contributions to the Expo mobile app and Node.js backend.
+### 🔭 Open source
+
+**[OrbisPrismMCP](https://github.com/OrbisFactory/OrbisPrismMCP)** — Creator and maintainer.
+
+An AI-assisted MCP query interface for Hytale modding. Decomposes the official Hytale server JAR, isolates its core logic, and exposes an MCP server so developers can query the codebase directly from their AI tools (OpenCode, Cursor, VSCode, Antigravity, Gemini-CLI).
+
+Built with Python, MCP, Rich CLI, and bilingual EN/ES support. 4 ⭐
+
+---
+
+Most of my professional work lives in **private repositories** — including a production Next.js web platform at [Jodify](https://jodify.com.ar/landing) and a multi-tenant SaaS POS built with NestJS, Nuxt 3, and PostgreSQL. Happy to walk through architecture decisions in conversation.
 
 ### What I build with
 
 | Area | Stack |
-|------|-------|
-| **Web** | Next.js, React, TypeScript, Tailwind CSS |
+|---|---|
+| **Web** | Next.js, React, Nuxt 3, Vue, TypeScript, Tailwind CSS |
+| **Backend** | NestJS, Node.js, Go, PostgreSQL, Drizzle ORM |
 | **Mobile** | Expo, React Native |
-| **Backend & Systems** | Go, Node.js, APIs |
 | **AI & MCP** | MCP Servers, AI-assisted workflows, agent tooling |
 
-### Featured work
+### More projects
 
-- **[OrbisPrismMCP](https://github.com/OrbisFactory/OrbisPrismMCP)** —
-  Contributed to an AI-assisted MCP query interface for Hytale modding.
-- **[Open-CLAssing](https://github.com/SamuelCastrillon/Open-CLAssing)** —
-  Open-source automation tool for meeting assignment management.
-- **[scoop-bucket-gentle-stack](https://github.com/SamuelCastrillon/scoop-bucket-gentle-stack)** —
-  Windows-native developer tooling via Scoop package manager.
-
-### Tools I use daily
-
-- **[engram](https://github.com/SamuelCastrillon/engram)** — Persistent memory
-  for AI coding agents, integrated into my MCP and AI-assisted workflow.
+- **[scoop-bucket-gentle-stack](https://github.com/SamuelCastrillon/scoop-bucket-gentle-stack)** — Windows-native developer tooling via Scoop package manager.
+- **[Open-CLAssing](https://github.com/SamuelCastrillon/Open-CLAssing)** — Open-source automation for meeting assignment management.
+- **[EComerce-DigitalInnovation](https://github.com/SamuelCastrillon/EComerce-DigitalInnovation)** — Full-stack ecommerce with auth, dashboard, and product catalog.
+- **[engram](https://github.com/SamuelCastrillon/engram)** — Persistent memory for AI coding agents, part of my daily workflow.
 
 ### Contact
 
-[Email](mailto:samcastj@gmail.com) ·
-[LinkedIn](https://www.linkedin.com/in/samuel-castrill%C3%B3n/)
+[Email](mailto:samcastj@gmail.com) · [LinkedIn](https://www.linkedin.com/in/samuel-castrill%C3%B3n/)
