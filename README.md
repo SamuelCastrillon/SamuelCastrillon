@@ -1,6 +1,8 @@
 ## Hi, I'm Samuel Castrillón 👋
 
-**Software Developer | Next.js · NestJS · Expo · Go · MCP Tooling**
+> 🇪🇸 ¿Buscas la versión en español? → [README-es.md](./README-es.md)
+
+**Software Developer · Creator of [Sechel](https://sechel.vercel.app/) · Maintainer at Jodify**
 
 I build production web and mobile products with a focus on clean architecture, domain-driven design, and practical AI-assisted workflows.
 
@@ -27,10 +29,14 @@ Most of my professional work lives in **private repositories** — including a p
 
 ### More projects
 
-- **[scoop-bucket-gentle-stack](https://github.com/SamuelCastrillon/scoop-bucket-gentle-stack)** — Windows-native developer tooling via Scoop package manager.
-- **[Open-CLAssing](https://github.com/SamuelCastrillon/Open-CLAssing)** — Open-source automation for meeting assignment management.
-- **[EComerce-DigitalInnovation](https://github.com/SamuelCastrillon/EComerce-DigitalInnovation)** — Full-stack ecommerce with auth, dashboard, and product catalog.
-- **[engram](https://github.com/SamuelCastrillon/engram)** — Persistent memory for AI coding agents, part of my daily workflow.
+- **[Sechel](https://sechel.vercel.app/)** — Cloud-native MCP server for AI
+  agent memory with real auth and 97 tests. Open source.
+- **[scoop-bucket-gentle-stack](https://github.com/SamuelCastrillon/scoop-bucket-gentle-stack)** —
+  Windows-native developer tooling via Scoop package manager.
+- **[Open-CLAssing](https://github.com/SamuelCastrillon/Open-CLAssing)** —
+  Open-source automation tool for meeting assignment management.
+- **[EComerce-DigitalInnovation](https://github.com/SamuelCastrillon/EComerce-DigitalInnovation)** —
+  Full-stack ecommerce with auth, dashboard, and product catalog.
 
 ### Contact
 
