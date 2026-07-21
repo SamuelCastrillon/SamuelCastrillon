@@ -2,7 +2,7 @@
 
 > 🇬🇧 Read this in English → [README.md](./README.md)
 
-**Desarrollador de software · Creador de código abierto · Ingeniero con enfoque en arquitectura**
+**Desarrollador de software · Creador de código abierto · Enfoque en arquitectura**
 
 Construyo aplicaciones web y mobile en producción con arquitectura limpia, domain-driven design y flujos prácticos asistidos por IA.
 

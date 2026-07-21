@@ -2,7 +2,7 @@
 
 > 🇪🇸 ¿Buscas la versión en español? → [README-es.md](./README-es.md)
 
-**Software developer · Open-source creator · Architecture-first engineer**
+**Software developer · Open-source creator · Architecture-first**
 
 I build production web and mobile applications with clean architecture, domain-driven design, and practical AI-augmented workflows.
 
