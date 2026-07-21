@@ -22,7 +22,7 @@ I practice **Domain-Driven Design**, **Hexagonal Architecture**, and **Screaming
 
 MCP server that indexes decompiled Java codebases for AI-agent navigation. Replaces context-window burnout from file reads with structured SQLite queries.
 
-- [2,500+ downloads on PyPI](https://pypi.org/project/orbis-prism-mcp/) · ~86/month and growing
+- [2,072 downloads on PyPI](https://pypi.org/project/orbis-prism-mcp/) · ~200/month and growing
 - Hexagonal architecture with domain/application/infrastructure/ports layers
 - 14 MCP tools: FTS5 search (unicode61 + trigram), class hierarchy, call flow analysis, pattern detection, and more
 - Dual transport: stdio for local agents, SSE for remote/network use

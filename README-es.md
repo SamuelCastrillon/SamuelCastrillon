@@ -22,7 +22,7 @@ Practico **Domain-Driven Design**, **Arquitectura Hexagonal** y **Screaming Arch
 
 Servidor MCP que indexa codebases Java decompilados para navegación asistida por IA. Elimina la saturación de contexto reemplazando lecturas de archivo con consultas estructuradas a SQLite.
 
-- [Más de 2,500 descargas en PyPI](https://pypi.org/project/orbis-prism-mcp/) · ~86/mes y creciendo
+- [2,072 descargas en PyPI](https://pypi.org/project/orbis-prism-mcp/) · ~200/mes y creciendo
 - Arquitectura hexagonal con capas de dominio/aplicación/infraestructura/puertos
 - 14 herramientas MCP: búsqueda FTS5 (unicode61 + trigram), jerarquía de clases, análisis de flujo de llamadas, detección de patrones y más
 - Transporte dual: stdio para agentes locales, SSE para uso remoto
